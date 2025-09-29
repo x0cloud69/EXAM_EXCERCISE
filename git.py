@@ -7,3 +7,6 @@ print("New Hunk 5")
 print("New Hunk 6")
 print("Git Test")
 print("Git Main TEST2")
+
+print("Git Test")
+print("Git Main TEST2")
